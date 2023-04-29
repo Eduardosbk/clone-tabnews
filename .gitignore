@@ -1,0 +1,4 @@
+node_modules
+.nvmrc
+.next
+.DS_Store
