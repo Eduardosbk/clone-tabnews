@@ -1,5 +1,5 @@
 export default function Home() {
   return (
-    <h1>Avanando mais um pouco.</h1>
+    <h1>Avançando ainda mais.</h1>
   );
 }
